@@ -17,11 +17,11 @@ The project allows you to remotely control the relay and monitor the readings of
 - DHT22 sensor
 - DS18B20 sensors (2 pcs)
 - Libraries:
-- FastBot
-- OneWire
-- DallasTemperature
-- DHT Sensor Library
-- Adafruit Unified Sensor
+  - FastBot
+  - OneWire
+  - DallasTemperature
+  - DHT Sensor Library
+  - Adafruit Unified Sensor
 
 ## Connection diagram
 
